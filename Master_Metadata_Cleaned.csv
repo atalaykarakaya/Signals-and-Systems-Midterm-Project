@@ -1,0 +1,275 @@
+File_Name;Subject_ID;Gender;Age;Emotion;Sentence_No;Recording_Device;Environment;Noise_Level
+G05_D01_C_9_Neutral_C1.wav;D01;C;9.0;Neutral;1.0;samsung A56;Home;Low
+G05_D01_C_9_Happy_C2.wav;D01;C;9.0;Happy;2.0;samsung A56;Home;Low
+G05_D01_C_9_Angry_C3.wav;D01;C;9.0;Angry;3.0;samsung A56;Home;Low
+G05_D02_E_23_Neutral_C1.wav;D02;E;23.0;Neutral;1.0;iPhone 13;Home;Low
+G05_D02_E_23_Happy_C2.wav;D02;E;23.0;Happy;2.0;iPhone 13;Home;Low
+G05_D02_E_23_Angry_C3.wav;D02;E;23.0;Angry;3.0;iPhone 13;Home;Low
+G05_D03_K_19_Neutral_C1.wav;D03;K;19.0;Neutral;1.0;redmi note 8 pro;Home;Low
+G05_D03_K_19_Happy_C2.wav;D03;K;19.0;Happy;2.0;redmi note 8 pro;Home;Low
+G05_D03_K_19_Angry_C3.wav;D03;K;19.0;Angry;3.0;redmi note 8 pro;Home;Low
+G05_D04_K_21_Neutral_C1.wav;D04;K;21.0;Neutral;1.0;xiaomi note 13 pro;outside;Low
+G05_D04_K_21_Happy_C2.wav;D04;K;21.0;Happy;2.0;xiaomi note 13 pro;outside;Low
+G05_D04_K_21_Angry_C3.wav;D04;K;21.0;Angry;3.0;xiaomi note 13 pro;outside;Low
+G05_D05_E_21_Neutral_C1.wav;D05;E;21.0;Neutral;1.0;samsung s25;outside;Low
+G05_D05_E_21_Happy_C2.wav;D05;E;21.0;Happy;2.0;samsung s25;outside;Low
+G05_D05_E_21_Angry_C3.wav;D05;E;21.0;Angry;3.0;samsung s25;outside;Low
+G05_D06_C_9_Neutral_C1.wav;D06;C;9.0;Neutral;1.0;redmi note 8 pro;Home;Low
+G05_D06_C_9_Happy_C2.wav;D06;C;9.0;Happy;2.0;redmi note 8 pro;Home;Low
+G05_D06_C_9_Angry_C3.wav;D06;C;9.0;Angry;3.0;redmi note 8 pro;Home;Low
+G03_D01_C_10_Shocked_C5.wav;D01;C;10.0;Furious;3;redmi-9;house;middle
+G03_D01_C_10_Happy_C2.wav;D01;C;10.0;Happy;2;redmi-9;house;middle
+G03_D01_C_10_Sad_C4.wav;D01;C;10.0;Sad;4;redmi-9;house;middle
+G03_D02_F_45_Furious_C3.wav;D02;F;45.0;Furious;3;Samsung s25;house;middle
+G03_D02_F_45_Happy_C2.wav;D02;F;45.0;Happy;2;Samsung s25;house;middle
+G03_D02_F_45_Sad_C4.wav;D02;F;45.0;Sad;4;Samsung s25;house;middle
+G03_D03_M_50_Furious_C3.wav;D03;M;50.0;Furious;3;Samsung s25;house;middle
+G03_D03_M_50_Happy_C2.wav;D03;M;50.0;Happy;2;Samsung s25;house;middle
+G03_D03_M_50_Neutral_C1.wav;D03;M;50.0;Neutral;1;Samsung s25;house;middle
+G03_D04_M_23_Furious_C3.wav;D04;M;23.0;Furious;3;Samsung s25;house;middle
+G03_D04_M_23_Happy_C2.wav;D04;M;23.0;Happy;2;Samsung s25;house;middle
+G03_D04_M_23_Sad_C4.wav;D04;M;23.0;Sad;4;Samsung s25;house;middle
+G03_D05_F_22_Furious_C3.wav;D05;F;22.0;Furious;3;Samsung s25;house;middle
+G03_D05_F_22_Neutral_C1.wav;D05;F;22.0;Neutral;1;Samsung s25;house;middle
+G03_D05_F_22_Sad_C4.wav;D05;F;22.0;Sad;4;Samsung s25;house;middle
+G03_D06_C_11_Furious_C3.wav;D06;C;11.0;Furious;3;redmi-9;house;middle
+G03_D06_C_11_Shocked_C5.wav;D06;C;11.0;Shocked;5;redmi-9;house;middle
+G03_D06_C_11_Happy_C2.wav;D06;C;11.0;Happy;2;redmi-9;house;middle
+G04_D01_M_20_Neutral_C1.wav;D01;M;20.0;Neutral;1;PC;House;Low
+G04_D01_M_20_Happy_C2.wav;D01;M;20.0;Happy;2;PC;House;Low
+G04_D01_M_20_Furious_C3.wav;D01;M;20.0;Furious;3;PC;House;Low
+G04_D02_M_21_Neutral_C1.wav;D02;M;21.0;Neutral;1;PC;House;Low
+G04_D02_M_21_Happy_C2.wav;D02;M;21.0;Happy;2;PC;House;Low
+G04_D02_M_21_Furious_C3.wav;D02;M;21.0;Furious;3;PC;House;Low
+G04_D03_F_21_Sad_C4.wav;D03;F;21.0;Sad;4;PC;House;Low
+G04_D03_F_21_Happy_C2.wav;D03;F;21.0;Happy;2;PC;House;Low
+G04_D03_F_21_Furious_C3.wav;D03;F;21.0;Furious;3;PC;House;Low
+G04_D04_F_21_Neutral_C1.wav;D04;F;21.0;Neutral;1;PC;House;Low
+G04_D04_F_21_Furious_C3.wav;D04;F;21.0;Happy;2;PC;House;Low
+G04_D04_F_21_Shocked_C5.wav;D04;F;21.0;Furious;3;PC;House;Low
+G04_D05_C_12_Neutral_C1.wav;D05;C;12.0;Neutral;1;PC;House;Low
+G04_D05_C_12_Happy_C2.wav;D05;C;12.0;Happy;2;PC;House;Low
+G04_D05_C_12_Furious_C3.wav;D05;C;12.0;Furious;3;PC;House;Low
+G04_D06_C_13_Neutral_C1.wav;D06;C;13.0;Neutral;1;PC;House;Low
+G04_D06_C_13_Happy_C2.wav;D06;C;13.0;Happy;2;PC;House;Low
+G04_D06_C_13_Furious_C3.wav;D06;C;13.0;Furious;3;PC;House;Low
+G10_D01_C_11_Furious_C3.wav;D01;C;11.0;Furious;3;Iphone 13;House;low
+G10_D01_C_11_Happy_C2.wav;D01;C;11.0;Happy;2;Iphone 13;House;low
+G10_D01_C_11_Sad_C4.wav;D01;C;11.0;Sad;4;Iphone 13;House;low
+G10_D02_M_25_Neutral_C1.wav;D02;M;25.0;Neutral;1;Iphone 13;House;low
+G10_D02_M_25_Sad_C4.wav;D02;M;25.0;Sad;4;Iphone 13;House;low
+G10_D02_M_25_Shocked_C5.wav;D02;M;25.0;Shocked;5;Iphone 13;House;low
+G10_D03_M_23_Happy_C2.wav;D03;M;23.0;Happy;2;Iphone 13;House;low
+G10_D03_M_23_Neutral_C1.wav;D03;M;23.0;Neutral;1;Iphone 13;House;low
+G10_D03_M_23_Shocked_C5.wav;D03;M;23.0;Shocked;5;Iphone 13;House;low
+G10_D04_F_17_Furious_C3.wav;D04;F;17.0;Furious;3;Iphone 13;House;low
+G10_D04_F_17_Neutral_C1.wav;D04;F;17.0;Neutral;1;Iphone 13;House;low
+G10_D04_F_17_Sad_C4.wav;D04;F;17.0;Sad;4;Iphone 13;House;low
+G10_D05_C_11_Happy_C2.wav;D05;C;11.0;Happy;2;Iphone15 pro max;House;low
+G10_D05_C_11_Neutral_C1.wav;D05;C;11.0;Neutral;1;Iphone 15 pro max;House;low
+G10_D05_C_11_Sad_C4.wav;D05;C;11.0;Sad;4;Iphone 15 pro max;House;low
+G10_D06_F_30_Furious_C3.wav;D06;F;30.0;Furious;3;Iphone 15 pro max;House;low
+G10_D06_F_30_Happy_C2.wav;D06;F;30.0;Happy;2;Iphone 15 pro max;House;low
+G10_D06_F_30_Neutral_C1.wav;D06;F;30.0;Neutral;1;Iphone 15 pro max;House;low
+G19_D01_M_20_Neutral_C1.wav;D01;M;19.0;Neutral;1;Lenovo Laptop;house;low
+G19_D01_M_20_Furious_C3.wav;D01;M;19.0;Furious;3;Lenovo Laptop;house;low
+G19_D01_M_20_Sad_C4.wav;D01;M;19.0;Sad;4;Lenovo Laptop;house;low
+G19_D02_M_29_Neutral_C1.wav;D02;M;29.0;Neutral;1;Lenovo Laptop;house;low
+G19_D02_M_29_Furious_C3.wav;D02;M;29.0;Furious;3;Lenovo Laptop;house;low
+G19_D02_M_29_Sad_C4.wav;D02;M;29.0;Sad;4;Lenovo Laptop;house;low
+G19_D03_F_21_Neutral_C1.wav;D03;F;21.0;Neutral;1;Redmi 9;house;low
+G19_D03_F_21_Furious_C3.wav;D03;F;21.0;Furious;3;Redmi 9;house;low
+G19_D03_F_21_Shocked_C5.wav;D03;F;21.0;Shocked;5;Redmi 9;house;low
+G19_D04_F_18_Happy_C2.wav;D04;F;18.0;Happy;2;Redmi 9;house;low
+G19_D04_F_18_Furious_C3.wav;D04;F;18.0;Furious;3;Redmi 9;house;low
+G19_D04_F_18_Shocked_C5.wav;D04;F;18.0;Shocked;5;Redmi 9;house;low
+G19_D05_C_08_Happy_C2.wav;D05;C;8.0;Happy;2;Redmi 9;house;low
+G19_D05_C_08_Sad_C4.wav;D05;C;8.0;Sad;4;Redmi 9;house;low
+G19_D05_C_08_Shocked_C5.wav;D05;C;8.0;Shocked;5;Redmi 9;house;low
+G19_D06_C_10_Happy_C2.wav;D06;C;10.0;Happy;2;Redmi 9;house;low
+G19_D06_C_10_Furious_C3.wav;D06;C;10.0;Furious;3;Redmi 9;house;low
+G19_D06_C_10_Shocked_C5.wav;D06;C;10.0;Shocked;5;Redmi 9;house;low
+G11_D01_C_11_Furious_C3.wav;D01;C;11.0;Furious;3;iPhone 13;home;low
+G11_D01_C_11_Neutral_C1.wav;D01;C;11.0;Neutral;1;iPhone 13;home;low
+G11_D01_C_11_Shocked_C5.wav;D01;C;11.0;Shocked;5;iPhone 13;home;low
+G11_D02_C_16_Furious_C3.wav;D02;C;16.0;Furious;3;iPhone 16;home;low
+G11_D02_C_16_Happy_C2.wav;D02;C;16.0;Happy;2;iPhone 16;home;low
+G11_D02_C_16_Neutral_C1.wav;D02;C;16.0;Neutral;1;iPhone 16;home;low
+G11_D03_M_21_Furious_C3.wav;D03;M;21.0;Furious;3;iPhone 13;home;low
+G11_D03_M_21_Sad_C4.wav;D03;M;21.0;Sad;4;iPhone 13;home;low
+G11_D03_M_21_Shocked_C5.wav;D03;M;21.0;Shocked;5;iPhone 13;home;low
+G11_D04_F_24_Furious_C3.wav;D04;F;24.0;Furious;3;iPhone 15 Pro;home;low
+G11_D04_F_24_Happy_C2.wav;D04;F;24.0;Happy;2;iPhone 15 Pro;home;low
+G11_D04_F_24_Neutral_C1.wav;D04;F;24.0;Neutral;1;iPhone 15 Pro;home;low
+G11_D05_F_20_Furious_C3.wav;D05;F;20.0;Furious;3;iPhone 16 Pro;home;low
+G11_D05_F_20_Happy_C2.wav;D05;F;20.0;Happy;2;iPhone 16 Pro;home;low
+G11_D05_F_20_Sad_C4.wav;D05;F;20.0;Sad;4;iPhone 16 Pro;home;low
+G11_D06_M_22_Furious_C3.wav;D06;M;22.0;Furious;3;iPhone 16;home;low
+G11_D06_M_22_Neutral_C1.wav;D06;M;22.0;Neutral;1;iPhone 16;home;low
+G11_D06_M_22_Shocked_C5.wav;D06;M;22.0;Shocked;5;iPhone 16;home;low
+G16_D01_C_07_Happy_C2.wav;D01;C;7.0;Happy;2;macbook air;house;high
+G16_D01_C_07_Neutral_C1.wav;D01;C;7.0;Neutral;1;macbook air;house;middle
+G16_D01_C_07_Shocked_C5.wav;D01;C;7.0;Shocked;5;macbook air;house;high
+G16_D02_F_21_Furious_C3.wav;D02;F;21.0;Furious;3;macbook air;house;high
+G16_D02_F_21_Neutral_C1.wav;D02;F;21.0;Neutral;1;macbook air;house;low
+G16_D02_F_21_Shocked_C5.wav;D02;F;21.0;Shocked;5;macbook air;house;middle
+G16_D03_F_19_Furious_C3.wav;D03;F;19.0;Furious;3;lenovo yoga;house;high
+G16_D03_F_19_Happy_C2.wav;D03;F;19.0;Happy;2;lenovo yoga;house;middle
+G16_D03_F_19_Neutral_C1.wav;D03;F;19.0;Neutral;1;lenovo yoga;house;middle
+G16_D04_M_46_Furious_C3.wav;D04;M;46.0;Furious;3;lenovo yoga;house;high
+G16_D04_M_46_Neutral_C1.wav;D04;M;46.0;Neutral;1;lenovo yoga;house;middle
+G16_D04_M_46_Shocked_C5.wav;D04;M;46.0;Shocked;5;lenovo yoga;house;high
+G16_D05_M_17_Furious_C3.wav;D05;M;17.0;Furious;3;macbook air;house;high
+G16_D05_M_17_Sad_C4.wav;D05;M;17.0;Sad;4;macbook air;house;low
+G16_D05_M_17_Shocked_C5.wav;D05;M;17.0;Shocked;5;macbook air;house;middle
+G16_D06_C_09_Furious_C3.wav;D06;C;9.0;Furious;3;macbook air;house;high
+G16_D06_C_09_Happy_C2.wav;D06;C;9.0;Happy;2;macbook air;house;high
+G16_D06_C_09_Neutral_C1.wav;D06;C;9.0;Neutral;1;macbook air;house;middle
+G08_D01_C_7_Furious_C3;D01;Child;7.0;Furious;C3;Iphone 12 pro;House;Low
+G08_D01_C_7_Happy_C2;D01;Child;7.0;Happy;C2;Iphone 12 pro;House;Low
+G08_D01_C_7_Neutral_C1;D01;Child;7.0;Neutral;C1;Iphone 12 pro;House;Low
+G08_D02_C_6_Furious_C3;D02;Child;6.0;Furious;C3;Iphone;House;Low
+G08_D02_C_6_Happy_C2;D02;Child;6.0;Happy;C2;Iphone;House;Low
+G08_D02_C_6_Sad_C4;D02;Child;6.0;Sad;C4;Iphone;House;Low
+G08_D03_F_20_Happy_C2;D03;Female;20.0;Happy;C2;Xiaomi 8 pro;House;Low
+G08_D03_F_20_Neutral_C1;D03;Female;20.0;Neutral;C1;Xiaomi 8 pro;House;Low
+G08_D03_F_20_Shocked_C5;D03;Female;20.0;Shocked;C5;Xiaomi 8 pro;House;Low
+G08_D04_M_22_Furious_C3;D04;Male;22.0;Furious;C3;Xiaomi 13 pro;House;Low
+G08_D04_M_22_Sad_C4;D04;Male;22.0;Sad;C4;Xiaomi 13 pro;House;Low
+G08_D04_M_22_Shocked_C5;D04;Male;22.0;Shocked;C5;Xiaomi 13 pro;House;Low
+G08_D05_F_52_Furious_C3;D05;Female;52.0;Furious;C3;Xiaomi 13 pro;House;Low
+G08_D05_F_52_Happy_C2;D05;Female;52.0;Happy;C2;Xiaomi 13 pro;House;Low
+G08_D05_F_52_Sad_C4;D05;Female;52.0;Sad;C4;Xiaomi 13 pro;House;Low
+G08_D06_M_49_Furious_C3;D06;Male;49.0;Furious;C3;Xiaomi 8 pro;House;Low
+G08_D06_M_49_Sad_C4;D06;Male;49.0;Sad;C4;Xiaomi 8 pro;House;Low
+G08_D06_M_49_Shocked_C5;D06;Male;49.0;Shocked;C5;Xiaomi 8 pro;House;Low
+G01_D01_C_11_Angry_C3.wav;D01;C;11.0;Angry;3;Samsung Phone;house;middle
+G01_D01_C_11_Neutral_C1.wav;D01;C;11.0;Neutral;1;Samsung Phone;house;middle
+G01_D01_C_11_Sad_C4.wav;D01;C;11.0;Sad;4;Samsung Phone;house;middle
+G01_D01_C_11_Surprised_C5.wav;D01;C;11.0;Surprised;5;Samsung Phone;house;middle
+G01_D02_M_18_Happy_C2.wav;D02;M;18.0;Happy;2;Samsung Phone;house;middle
+G01_D02_M_18_Neutral_C1.wav;D02;M;18.0;Neutral;1;Samsung Phone;house;middle
+G01_D02_M_18_Sad_C4.wav;D02;M;18.0;Sad;4;Samsung Phone;house;middle
+G01_D03_F_23_Angry_C3.wav;D03;F;23.0;Angry;3;Samsung Phone;house;middle
+G01_D04_M_20_Angry_C3.wav;D04;M;20.0;Angry;3;iPhone;house;middle
+G01_D04_M_20_Neutral_C1.wav;D04;M;20.0;Neutral;1;iPhone;house;middle
+G01_D04_M_20_Sad_C4.wav;D04;M;20.0;Sad;4;iPhone;house;middle
+G01_D05_F_20_Happy_C2.wav;D05;F;20.0;Happy;2;Samsung Phone;house;middle
+G01_D05_F_20_Sad_C4.wav;D05;F;20.0;Sad;4;Samsung Phone;house;middle
+G01_D06_F_29_Angry_C3.wav;D06;F;29.0;Angry;3;Samsung Phone;house;middle
+G01_D06_F_29_Happy_C2.wav;D06;F;29.0;Happy;2;Samsung Phone;house;middle
+G01_D06_F_29_Sad_C4.wav;D06;F;29.0;Sad;4;Samsung Phone;house;middle
+G01_D07_F_25_Neutral_C1.wav;D07;F;25.0;Neutral;1;Samsung Phone;house;middle
+G01_D07_F_25_Sad_C4.wav;D07;F;25.0;Sad;4;Samsung Phone;house;middle
+G01_D07_F_25_Surprised_C5.wav;D07;F;25.0;Surprised;5;Samsung Phone;house;middle
+G01_D08_C_14_Happy_C2.wav;D08;C;14.0;Happy;2;Samsung Phone;house;middle
+G01_D08_C_14_Neutral_C1.wav;D08;C;14.0;Neutral;1;Samsung Phone;house;middle
+G01_D08_C_14_Surprised_C5.wav;D08;C;14.0;Surprised;5;Samsung Phone;house;middle
+G06_D01_F_20_Neutral_C1.wav;D01;F;20.0;Neutral;1;PC;house;very low
+G06_D01_F_20_Furious_C3.wav;D01;F;20.0;Furious;3;PC;house;very low
+G06_D01_F_20_Shocked_C5.wav;D01;F;20.0;Shocked;5;PC;house;very low
+G06_D02_F_19_Neutral_C1.wav;D02;F;19.0;Neutral;1;iPhone 13;house;low
+G06_D02_F_19_Furious_C3.wav;D02;F;19.0;Furious;3;iPhone 13;house;low
+G06_D02_F_19_Shocked_C5.wav;D02;F;19.0;Shocked;5;iPhone 13;house;low
+G06_D03_M_20_Neutral_C1.wav;D03;M;20.0;Neutral;1;PC;house;very low
+G06_D03_M_20_Furious_C3.wav;D03;M;20.0;Furious;3;PC;house;very low
+G06_D03_M_20_Shocked_C5.wav;D03;M;20.0;Shocked;5;PC;house;very low
+G06_D04_M_48_Neutral_C1.wav;D04;M;48.0;Neutral;1;iPhone 11;house;low
+G06_D04_M_48_Furious_C3.wav;D04;M;48.0;Furious;3;iPhone 11;house;low
+G06_D04_M_48_Shocked_C5.wav;D04;M;48.0;Shocked;5;iPhone 11;house;low
+G06_D05_C_10_Neutral_C1.wav;D05;C;10.0;Neutral;1;Samsung S24FE;house;low
+G06_D05_C_10_Furious_C3.wav;D05;C;10.0;Furious;3;Samsung S24FE;house;low
+G06_D05_C_10_Shocked_C5.wav;D05;C;10.0;Shocked;5;Samsung S24FE;house;low
+G06_D06_C_08_Neutral_C1.wav;D06;C;8.0;Neutral;1;Samsung S24FE;house;low
+G06_D06_C_08_Furious_C3.wav;D06;C;8.0;Furious;3;Samsung S24FE;house;low
+G06_D06_C_08_Shocked_C5.wav;D06;C;8.0;Shocked;5;Samsung S24FE;house;low
+G07_D01_M_22_Shocked_C5.wav;D01;M;22.0;Shocked;5;Iphone 16;house;middle
+G07_D01_M_22_Neutral_C1.wav;D01;M;22.0;Neutral;1;Iphone 16;house;middle
+G07_D01_M_22_Furious_C3.wav;D01;M;22.0;Furious;3;Iphone 16;house;middle
+G07_D02_M_50_Neutral_C1.wav;D02;M;50.0;Neutral;1;Iphone 16;house;middle
+G07_D02_M_50_Furious_C3.wav;D02;M;50.0;Furious;3;Iphone 16;house;middle
+G07_D02_M_50_Sad_C4.wav;D02;M;50.0;Sad;4;Iphone 16;house;middle
+G07_D03_F_40_Neutral_C1.wav;D03;F;40.0;Neutral;1;Iphone 16;house;low
+G07_D03_F_40_Sad_C4.wav;D03;F;40.0;Sad;4;Iphone 16;house;middle
+G07_D03_F_40_Furious_C3.wav;D03;F;40.0;Furious;3;Iphone 16;house;high
+G07_D04_F_20_Furious_C3.wav;D04;F;20.0;Furious;3;Iphone 16;house;middle
+G07_D04_F_20_Neutral_C1.wav;D04;F;20.0;Neutral;1;Iphone 16;house;middle
+G07_D04_F_20_Furious_C4.wav;D04;F;20.0;Furious;4;Iphone 16;house;low
+G07_D05_C_15_Furious_C3.wav;D05;C;15.0;Furious;3;Iphone 16;house;high
+G07_D05_C_15_Neutral_C1.wav;D05;C;15.0;Neutral;1;Iphone 16;house;middle
+G07_D05_C_15_Shocked_C5.wav;D05;C;15.0;Shocked;5;Iphone 16;house;middle
+G07_D06_C_15_Furious_C3.wav;D06;C;15.0;Furious;3;Iphone 16;house;high
+G07_D06_C_15_Happy_C2.wav;D06;C;15.0;Happy;2;Iphone 16;house;middle
+G07_D06_C_15_Sad_C4.wav;D06;C;15.0;Sad;4;Iphone 16;house;low
+G09_D01_K_22_Sad_C4.wav;D01;K;22.0;Sad;4;iPhone 13;house;low
+G09_D01_K_22_Happy_C2.wav;D01;K;22.0;Happy;2;iPhone 13;house;middle
+G09_D01_K_22_Furious_C3.wav;D01;K;22.0;Furious;3;iPhone 13;house;high
+G09_D02_K_21_Furious_C3.wav;D02;K;21.0;Furious;3;iPhone 15;house;high
+G09_D02_K_21_Happy_C2.wav;D02;K;21.0;Happy;2;iPhone 15;house;middle
+G09_D02_K_21_Neutral_C1.wav;D02;K;21.0;Neutral;1;iPhone 15;house;middle
+G09_D03_E_21_Neutral_C1.wav;D03;E;21.0;Neutral;1;Xiaomi Redmi Note 12;house;middle
+G09_D03_E_21_Happy_C2.wav;D03;E;21.0;Happy;2;Xiaomi Redmi Note 12;house;middle
+G09_D03_E_21_Furious_C3.wav;D03;E;21.0;Furious;3;Xiaomi Redmi Note 12;house;high
+G09_D04_E_42_Sad_C4.wav;D04;E;42.0;Sad;4;iPhone 13;house;low
+G09_D04_E_42_Furious_C3.wav;D04;E;42.0;Furious;3;iPhone 13;house;high
+G09_D04_E_42_Shocked_C5.wav;D04;E;42.0;Shocked;5;iPhone 13;house;high
+G09_D05_C_11_Shocked_C5.wav;D05;C;11.0;Shocked;5;iPhone 15;house;high
+G09_D05_C_11_Sad_C4.wav;D05;C;11.0;Sad;4;iPhone 13;house;low
+G09_D05_C_11_Furious_C3.wav;D05;C;11.0;Furious;3;iPhone 15;house;high
+G09_D06_C_12_Shocked_C5.wav;D06;C;12.0;Shocked;5;iPhone 13;house;high
+G09_D06_C_12_Sad_C4.wav;D06;C;12.0;Sad;4;iPhone 13;house;low
+G09_D06_C_12_Furious_C3.wav;D06;C;12.0;Furious;3;iPhone 13;house;high
+G13_D01_M_22_Shocked_C5.wav;D01;M;22.0;Shocked;5;Oppo Reno 4;house;middle
+G13_D01_M_22_Neutral_C1.wav;D01;M;22.0;Neutral;1;Oppo Reno 4;house;middle
+G13_D01_M_22_Furious_C3.wav;D01;M;22.0;Furious;3;Oppo Reno 4;house;middle
+G13_D03_F_17_Neutral_C1.wav;D03;F;17.0;Neutral;1;Oppo Reno 4;house;middle
+G13_D03_F_17_Furious_C3.wav;D03;F;17.0;Furious;3;Oppo Reno 4;house;middle
+G13_D03_F_17_Sad_C4.wav;D03;F;17.0;Sad;4;Oppo Reno 4;house;middle
+G13_D02_M_22_Neutral_C1.wav;D02;M;22.0;Neutral;1;PC;house;low
+G13_D02_M_22_Sad_C4.wav;D02;M;22.0;Sad;4;PC;house;middle
+G13_D02_M_22_Furious_C3.wav;D02;M;22.0;Furious;3;PC;house;high
+G13_D04_F_28_Furious_C3.wav;D04;F;28.0;Furious;3;iPhone 14;house;middle
+G13_D04_F_28_Neutral_C1.wav;D04;F;28.0;Neutral;1;iPhone 14;house;middle
+G13_D04_F_28_Sad_C4.wav;D04;F;28.0;Furious;4;iPhone 14;house;low
+G13_D05_C_10_Furious_C3.wav;D05;C;10.0;Furious;3;iPhone 17;house;high
+G13_D05_C_10_Neutral_C1.wav;D05;C;10.0;Neutral;1;iPhone 17;house;middle
+G13_D05_C_10_Shocked_C5.wav;D05;C;10.0;Shocked;5;iPhone 17;house;middle
+G13_D06_C_14_Furious_C3.wav;D06;C;14.0;Furious;3;iPhone 17;house;high
+G13_D06_C_14_Happy_C2.wav;D06;C;14.0;Happy;2;iPhone 17;house;middle
+G13_D06_C_14_Sad_C4.wav;D06;C;14.0;Sad;4;iPhone 17;house;low
+G14_D01_F_27_Happy_C2.wav;D01;F;27.0;Happy;2;redmi 14t pro;Room;low
+G14_D01_F_27_Neutral_C1.wav;D01;F;27.0;Neutral;1;redmi 14t pro;Room;low
+G14_D01_F_27_Shocked_C5.wav;D01;F;27.0;Shocked;5;redmi 14t pro;Room;low
+G14_D02_F_28_Happy_C2.wav;D02;F;28.0;Happy;2;vivo;Room;low
+G14_D02_F_28_Neutral_C1.wav;D02;F;28.0;Neutral;1;vivo;Room;low
+G14_D02_F_28_Shocked_C5.wav;D02;F;28.0;Shocked;5;vivo;Room;low
+G14_D03_C_16_Happy_C2.wav;D03;C;16.0;Happy;2;a24;Room;low
+G14_D03_C_16_Neutral_C1.wav;D03;C;16.0;Neutral;1;a24;Room;low
+G14_D03_C_16_Shocked_C5.wav;D03;C;16.0;Shocked;5;a24;Room;low
+G14_D04_C_16_Happy_C2.wav;D04;C;16.0;Happy;2;s26 ultra;Room;low
+G14_D04_C_16_Neutral_C1.wav;D04;C;16.0;Neutral;1;s26 ultra;Room;low
+G14_D04_C_16_Shocked_C5.wav;D04;C;16.0;Shocked;5;s26 ultra;Room;low
+G14_D05_M_21_Furious_C3.wav;D05;M;21.0;Furious;3;redmi note13;Room;low
+G14_D05_M_21_Neutral_C1.wav;D05;M;21.0;Neutral;1;redmi note13;Room;low
+G14_D05_M_21_Shocked_C5.wav;D05;M;21.0;Shocked;5;redmi note13;Room;low
+G14_D06_M_25_Happy_C2.wav;D06;M;25.0;Happy;2;a34;Room;low
+G14_D06_M_25_Neutral_C1.wav;D06;M;25.0;Neutral;1;a34;Room;low
+G14_D06_M_25_Shocked_C5.wav;D06;M;25.0;Shocked;5;a34;Room;low
+G12_D01_K_23_Happy_C2.wav;D01;K;23.0;Happy;2;Macbook pro;House;Low
+G12_D01_K_23_Neutral_C1.wav;D01;K;23.0;Neutral;1;Macbook pro;House;Low
+G12_D01_K_23_Shocked_C5.wav;D01;K;23.0;Shocked;5;Macbook pro;House;Low
+G12_D02_K_21_Furious_C3.wav;D02;K;21.0;Furious;3;Macbook pro;House;Low
+G12_D02_K_21_Neutral_C1.wav;D02;K;21.0;Neutral;1;Macbook pro;House;Low
+G12_D02_K_21_Sad_C4.wav;D02;K;21.0;Sad;4;Msi katana;House;Low
+G12_D03_E_21_Neutral_C1.wav;D03;E;21.0;Neutral;1;Msi katana;House;Low
+G12_D03_E_21_Sad_C4.wav;D03;E;21.0;Sad;4;Msi katana;House;Low
+G12_D03_E_21_Shocked_C5.wav;D03;E;21.0;Shocked;5;Macbook pro;House;Low
+G12_D04_E_61_Furious_C3.wav;D04;E;61.0;Furious;3;Macbook pro;House;Low
+G12_D04_E_61_Happy_C2.wav;D04;E;61.0;Happy;2;Macbook pro;House;Low
+G12_D04_E_61_Neutral_C1.wav;D04;E;61.0;Neutral;1;Macbook pro;House;Low
+G12_D05_C_8_Happy_C2.wav;D05;C;8.0;Happy;2;Macbook pro;House;Low
+G12_D05_C_8_Neutral_C1.wav;D05;C;8.0;Neutral;1;Macbook pro;House;Low
+G12_D05_C_8_Sad_C4.wav;D05;C;8.0;Sad;4;Macbook pro;House;Low
+G12_D06_C_9_Happy_C2.wav;D06;C;9.0;Happy;2;Iphone 13;House;Low
+G12_D06_C_9_Neutral_C1.wav;D06;C;9.0;Neutral;1;Iphone 13;House;Low
+G12_D06_C_9_Shocked_C5.wav;D06;C;9.0;Shocked;5;Iphone 13;House;Low
